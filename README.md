@@ -1,7 +1,9 @@
 ## Hi Hailin is Here~ 👋
 
-I'am a 15 year-old Threat Researcher in General-Security Research(Web Security mainly) and small SecTools Developer.Also With a keen interest in Binary Security(IoT-Security / Memory-Security), Reverse Engine and AI/LM Security.
-Member of [SecureNexusLab](https://securenexuslab.github.io) and the [EU Information Security(EU-CERT) Hall of Fame](https://cert.europa.eu/hall-of-fame).Like play CTF at the same time.
+I'am a 15 year-old Threat Researcher in General-Security Research(Web Security mainly) and small SecTools Developer.
+Also With a keen interest in Binary Security(IoT-Security / Memory-Security), Reverse Engine and AI/LM Security.
+Member of [SecureNexusLab](https://securenexuslab.github.io) and the [EU Information Security(EU-CERT) Hall of Fame](https://cert.europa.eu/hall-of-fame).
+Like play CTF at the same time,welcome to communicate to me about cyber security~
 <!--
 **ring0r3z/ring0r3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
